@@ -1,2 +1,2 @@
-### &nbsp; Languages 🖥 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tools 🛠️
+### &nbsp; Languages 🖥 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tools 🛠️
 &nbsp; ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu%20bash) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007acc) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
